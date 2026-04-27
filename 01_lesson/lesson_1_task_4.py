@@ -1,5 +1,5 @@
 def print_greeting():
-    print("Привет, мир!")
+    print("Здравствуй небо голубое!")
 
 
 print_greeting()

@@ -1,3 +1,3 @@
-my_age = 49
-my_age = 52
+my_age = 20
+my_age = 23
 print(my_age)
