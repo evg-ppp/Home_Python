@@ -5,4 +5,4 @@ lst = ['🍇', '🍑', '🍐', '🍋', '🍌', '🍉']
 print(lst[0])  # Output '🍇'
 
 # Вывод последнего элемента
-print(lst[-1])  # Output '🍌'
+print(lst[-1])  # Output '🍉'
