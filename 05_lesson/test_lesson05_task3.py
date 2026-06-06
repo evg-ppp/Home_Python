@@ -20,4 +20,3 @@ def test_multiple_elements():
     assert "1" in links[0].text
 
     driver.quit()
-
