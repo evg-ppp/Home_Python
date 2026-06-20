@@ -33,9 +33,9 @@ def test_saucedemo_total():
     driver.find_element(By.CLASS_NAME, "shopping_cart_link").click()
     driver.find_element(By.ID, "checkout").click()
 
-    driver.find_element(By.ID, "first-name").send_keys("Ivan")
-    driver.find_element(By.ID, "last-name").send_keys("Ivanov")
-    driver.find_element(By.ID, "postal-code").send_keys("123456")
+    driver.find_element(By.ID, "first-name").send_keys("Evgeniy")
+    driver.find_element(By.ID, "last-name").send_keys("Pitonov")
+    driver.find_element(By.ID, "postal-code").send_keys("101000")
 
     driver.find_element(By.ID, "continue").click()
 
