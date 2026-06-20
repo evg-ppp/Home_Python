@@ -50,7 +50,3 @@ def test_saucedemo_total():
     assert total == "$58.29", f"Ожидалось $58.29, получено {total}"
 
     driver.quit()
-
-
-if __name__ == "__main__":
-    test_saucedemo_total()
