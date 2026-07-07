@@ -9,9 +9,6 @@ BASE_URL = "https://ru.yougile.com/api-v2"
 
 
 def get_company_id():
-
-
-def get_company_id():
     response = requests.post(
         f"{BASE_URL}/auth/companies",
         json={
